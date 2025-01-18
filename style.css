@@ -43,34 +43,6 @@ body {margin: 0;}
 .bodystart h3 {color: #c0c0c0;}
 .bodystart img {max-width: 100%; height: auto;}
 
-.body1 {background-color: #1a1d36; color: #ffffff;}
-.body1 h1 {color: #ffd700;}
-.body1 img {max-width: 100%; height: auto;}
-
-.body2 {background-color: #f4e3c1; color: #4b3621;}
-.body2 h1 {color: #2e8b57;}
-.body2 img {max-width: 100%; height: auto;}
-
-.body3 {background-color: #3e4a59; color: #ffffff;}
-.body3 h1 {color: #0dcaf0;}
-.body3 img {max-width: 100%; height: auto;}
-
-.body4 {background-color: #1e0000; color: #d3d3d3;}
-.body4 h1 {color: #ff0000;}
-.body4 img {max-width: 100%; height: auto;}
-
-.body5 {background-color: #0d1a33; color: #d9faff;}
-.body5 h1 {color: #ffa500;}
-.body5 img {max-width: 100%; height: auto;}
-
-.body6 {background-color: #000000; color: #e5e5e5;}
-.body6 h1 {color: #a9a9a9;}
-.body6 img {max-width: 100%; height: auto;}
-
-.body7 {background-color: #ffcccb; color: #1a1a4b;}
-.body7 h1 {color: #add8e6;}
-.body7 img {max-width: 100%; height: auto;}
-
 .bodygaleria {font-family: Arial, sans-serif; padding: 0; background-color: #1B1F3A; color: #FFFFFF;}
 .bodygaleria h1 {text-align: center; padding: 20px; background-color: #2A2D3E; margin: 0; color: #FFD700;}
 .gallery {display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; padding: 20px;}
