@@ -38,7 +38,7 @@ body {margin: 0;}
     #main {width: 100vw; height: 60vh;}
 }
 
-.bodystart {color: #ffffff;}
+.bodystart {color: #ffffff; background-color: #2e213e;}
 .bodystart h1 {color: #ffd700;}
 .bodystart h3 {color: #c0c0c0;}
 .bodystart img {max-width: 100%; height: auto;}
