@@ -41,6 +41,7 @@ body {margin: 0;}
 .bodystart {color: #ffffff;}
 .bodystart h1 {color: #ffd700;}
 .bodystart h3 {color: #c0c0c0;}
+.bodystart img {max-width: 100%; height: auto;}
 
 .body1 {background-color: #1a1d36; color: #ffffff;}
 .body1 h1 {color: #ffd700;}
